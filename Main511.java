@@ -10,7 +10,7 @@ public class Main511{
 	}
 	public static void main(String[] args){
     System.out.println(add(10,20));
-    System.out.println(add(2.8,10,1.5));
+    System.out.println(add(2.8,10,1.5)); //同名のメソッドは、引数の型、数で使い分けされる。
     System.out.println(add("Hello","World"));
   }
 }
