@@ -1,4 +1,5 @@
 public class Main53{
+	\\最初は必ずmainから呼び出す。
 	public static void main(String[] args){
 	  methodA();
 	}
