@@ -5,3 +5,5 @@
 ### RenXX    → 練習X-X
 に対応する。
 動作環境は.....
+Oracle Java APIリファレンス
+https://docs.oracle.com/javase/jp/8/docs/api/
