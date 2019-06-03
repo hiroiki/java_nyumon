@@ -1,0 +1,5 @@
+@echo off
+SET SOURCE=%1
+javac %SOURCE%
+SET COMPILE=%SOURCE:~0,-5%
+java %COMPILE%
