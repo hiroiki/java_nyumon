@@ -23,3 +23,10 @@ https://techacademy.jp/magazine/19078
 
 例外api<br>
 https://docs.oracle.com/javame/config/cdc/ref-impl/cdc1.1.2/jsr218/ja/java/lang/class-use/Exception.html
+
+例外クラス作成<br>
+https://www.atmarkit.co.jp/ait/spv/1112/20/news131.html
+
+例外投げる<br>
+https://www.sejuku.net/blog/22387
+
