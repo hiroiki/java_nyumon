@@ -30,3 +30,5 @@ https://www.atmarkit.co.jp/ait/spv/1112/20/news131.html
 例外投げる<br>
 https://www.sejuku.net/blog/22387
 
+標準出力と標準エラー出力<br>
+http://www.cis.twcu.ac.jp/~asakawa/java_intro/io.html
