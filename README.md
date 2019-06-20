@@ -8,15 +8,18 @@
 Oracle Java APIリファレンス  
 https://docs.oracle.com/javase/jp/8/docs/api/
 
-データファイル読み込み関連
-シンプル
+データファイル読み込み関連<br>
+シンプル<br>
 https://www.google.com/amp/s/www.aiosl-tec.co.jp/java/303/amp/
 
-API
+API<br>
 https://docs.oracle.com/javase/jp/8/docs/api/java/io/BufferedReader.html
 
-詳細
+詳細<br>
 https://qiita.com/kics/items/209a5e146428a8feb05a
 
-例外処理
+例外処理<br>
 https://techacademy.jp/magazine/19078
+
+例外api<br>
+https://docs.oracle.com/javame/config/cdc/ref-impl/cdc1.1.2/jsr218/ja/java/lang/class-use/Exception.html
