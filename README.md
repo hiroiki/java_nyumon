@@ -15,6 +15,7 @@ https://www.google.com/amp/s/www.aiosl-tec.co.jp/java/303/amp/
 API
 https://docs.oracle.com/javase/jp/8/docs/api/java/io/BufferedReader.html
 
+詳細
 https://qiita.com/kics/items/209a5e146428a8feb05a
 
 例外処理
