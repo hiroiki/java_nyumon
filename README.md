@@ -32,3 +32,6 @@ https://www.sejuku.net/blog/22387
 
 標準出力と標準エラー出力<br>
 http://www.cis.twcu.ac.jp/~asakawa/java_intro/io.html
+
+時間<br>
+https://qiita.com/ayaka105/items/1a68ed7ad84743dde7d5
